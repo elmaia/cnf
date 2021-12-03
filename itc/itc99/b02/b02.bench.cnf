@@ -1,0 +1,102 @@
+c Original Bench File <E:\Doutorado\elmaia_github\cnf\itc\itc99\b02\b02.bench>
+c 
+c Map <original_signal> <mapped_signal>
+c Map LINEA 1
+c Map U_REG 2
+c Map U31 3
+c Map STATO_REG_2_ 4
+c Map U33 5
+c Map STATO_REG_1_ 6
+c Map U38 7
+c Map STATO_REG_0_ 8
+c Map U32 9
+c Map U35 10
+c Map U37 11
+c Map U48 12
+c Map U47 13
+c Map U42 14
+c Map U41 15
+c Map U34 16
+c Map U36 17
+c Map U52 18
+c Map U51 19
+c Map U39 20
+c Map U50 21
+c Map U49 22
+c Map U40 23
+c Map U43 24
+c Map U44 25
+c Map U45 26
+c Map U46 27
+c 
+c I/O Map <original_signal> <mapped_signal>
+c $i 1 i_0
+c $o 2 o_0
+c 
+p cnf 27 66
+10 -3 0
+11 -3 0
+4 -3 0
+-10 -11 -4 3 0
+12 9 0
+13 9 0
+-12 -13 -9 0
+14 5 0
+15 5 0
+-14 -15 -5 0
+4 16 0
+-4 -16 0
+8 10 0
+-8 -10 0
+1 17 0
+-1 -17 0
+6 11 0
+-6 -11 0
+18 7 0
+19 7 0
+-18 -19 -7 0
+21 20 0
+22 20 0
+10 20 0
+-21 -22 -10 -20 0
+-4 23 0
+-1 23 0
+4 1 -23 0
+8 15 0
+23 15 0
+-8 -23 -15 0
+6 14 0
+20 14 0
+-6 -20 -14 0
+-1 24 0
+-6 24 0
+1 6 -24 0
+16 25 0
+24 25 0
+-16 -24 -25 0
+1 26 0
+16 26 0
+-1 -16 -26 0
+8 27 0
+26 27 0
+-8 -26 -27 0
+-1 13 0
+-8 13 0
+-4 13 0
+1 8 4 -13 0
+27 12 0
+11 12 0
+-27 -11 -12 0
+1 22 0
+16 22 0
+-1 -16 -22 0
+4 21 0
+17 21 0
+-4 -17 -21 0
+8 19 0
+25 19 0
+-8 -25 -19 0
+6 18 0
+16 18 0
+10 18 0
+-6 -16 -10 -18 0
